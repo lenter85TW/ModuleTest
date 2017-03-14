@@ -6,4 +6,4 @@ function lenterSum(a, b) {
     return a + b;
 }
 
-export {lenterSum};
+export.lenterSum = lenterSum;
