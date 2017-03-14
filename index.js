@@ -8,6 +8,11 @@ function lenterSum(a, b) {
     return a + b;
 }
 
+function getSum() {
+    return sum;
+}
+
 exports.lenterSum = lenterSum;
 exports.sum = sum;
+exports.getSum = getSum;
 
